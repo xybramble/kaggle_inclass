@@ -13,5 +13,6 @@ the result
   
 xgtry.ipynb  
 use numberic features: is_free, price, total_positive_reviews, total_negative_reviews  
+use xgboost  
 submission_xg.csv  
 the result  
